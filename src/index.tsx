@@ -5,4 +5,4 @@ import { App } from "./containers/App";
 ReactDOM.render(<App />, document.getElementById("rootNode"));
 
 
-console.log("hello, Paweł!");
+console.log("hello, Rafał!");
